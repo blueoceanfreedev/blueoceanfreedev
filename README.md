@@ -1,4 +1,4 @@
-I am Daniil Pechkin, and is full stack developer, focusing more on WebGL( Three.js, React Three Fiber, GLSL, Unity ), React( ChakraUI, MaterialUI), Express, SLAM2.0, Blockchain. 
+I am Jonathan Gomez, and is full stack developer, focusing more on WebGL( Three.js, React Three Fiber, GLSL, Unity ), React( ChakraUI, MaterialUI), Express, SLAM2.0, Blockchain. 
 Recently I am finding data structure to control 3D modeling and animation.
     
     🔭 I’m currently working on modeling using R3F and GLSL shaders
