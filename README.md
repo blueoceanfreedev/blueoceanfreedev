@@ -6,7 +6,10 @@ Recently I am finding data structure to control 3D modeling and animation.
     👯 I’m looking to collaborate on WebSite development.
     🤔 I’m looking for help with GLSL.
     💬 Ask me about R3F, React.
-    📫 How to reach me: skype : live:.cid.98ff7219e5767b13 email : blueoceanfreedev@gmail.com discord : BLUEOCEAN#7335 
+    📫 How to reach me: 
+            skype : live:.cid.98ff7219e5767b13 
+            email : blueoceanfreedev@gmail.com 
+            discord : BLUEOCEAN#7335 
 
 EXPERIENCE
 
